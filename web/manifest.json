@@ -1,0 +1,11 @@
+{
+  "name": "FoodMood",
+  "short_name": "FoodMood",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFBF7",
+  "theme_color": "#F97316",
+  "description": "AI meal suggestions tailored to your diet, mood and spice tolerance.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
